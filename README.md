@@ -1,18 +1,10 @@
-## Hi there 👋
+## Hello!
 
-I'm **Andrea Morel**, a Systems Engineering student passionate about backend development and software engineering.
+I’m Andrea , a Systems Engineering student exploring all areas of software development with a passion for backend & databases.
 
-- 🔭 I’m currently working on: Improving my Java/Spring and SQL projects  
-- 🌱 I’m currently learning: Spring Boot, Python Essentials (Cisco), and Data Integration (ETL)  
-- 👯 I’m looking to collaborate on: Beginner-friendly backend or data-related projects  
-- 💬 Ask me about: Java, SQL, APIs, ETL basics, or anything you're curious about  
-- ⚡ Fun fact: I love learning new tech even if it scares me a little — I always jump in anyway.
+- 🔭 I’m currently improving my programming skills, exploring new technologies, and expanding my portfolio.
+- 🌱 Exploring all areas of computer science, with a focus on improving backend and database skills while keeping my other abilities sharp.  
+- 👯 Eager to collaborate on backend and IT projects, helping create inclusive spaces where people can learn and grow in all areas of technology.
+-⚡ Fun fact: Besides software, I’m also passionate about data networks.
 
-### 🔗 Tech Stack
-**Languages:** Java, Python, JavaScript, SQL  
-**Backend:** Spring Boot, Node.js  
-**Databases:** Oracle, MySQL, SQL Server  
-**Tools:** Git, GitHub, Postman, IntelliJ IDEA, VS Code  
-**Frontend basics:** HTML, CSS, Bootstrap  
 
-Feel free to check out my projects or connect with me!
