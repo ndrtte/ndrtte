@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**ndrtte/ndrtte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Andrea Morel**, a Systems Engineering student passionate about backend development and software engineering.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on: Improving my Java/Spring and SQL projects  
+- 🌱 I’m currently learning: Spring Boot, Python Essentials (Cisco), and Data Integration (ETL)  
+- 👯 I’m looking to collaborate on: Beginner-friendly backend or data-related projects  
+- 💬 Ask me about: Java, SQL, APIs, ETL basics, or anything you're curious about  
+- ⚡ Fun fact: I love learning new tech even if it scares me a little — I always jump in anyway.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔗 Tech Stack
+**Languages:** Java, Python, JavaScript, SQL  
+**Backend:** Spring Boot, Node.js  
+**Databases:** Oracle, MySQL, SQL Server  
+**Tools:** Git, GitHub, Postman, IntelliJ IDEA, VS Code  
+**Frontend basics:** HTML, CSS, Bootstrap  
+
+Feel free to check out my projects or connect with me!
