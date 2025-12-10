@@ -11,7 +11,7 @@ Improving my programming skills, exploring new technologies, and expanding my po
 Exploring all areas of computer science, with a focus on backend and databases while keeping my other skills sharp.
 
 🤝 **Looking to collaborate**  
-Eager to contribute in IT projects, creating inclusive spaces where people can learn and grow across all areas of technology.
+Eager to contribute to IT projects, creating inclusive spaces where people can learn and grow across all areas of technology.
 
 🌐 **Fun fact**  
 Besides software, I’m also passionate about data networks.
